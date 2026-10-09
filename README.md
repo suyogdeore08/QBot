@@ -106,13 +106,19 @@ The repository includes a src/ directory and frontend configuration files. Refer
 
 Screenshots and Demo
 
+Add screenshots of the working dashboard, test execution results, AI-generated test cases, and failure analysis here. Include the live demonstration link if one is available.
 
+Future Improvements
+
+Document only planned enhancements here. Keep already implemented functionality in the Key Features section rather than listing it as future work.
 
 Contributing
 
 Contributions, feedback, and suggestions are welcome. Open an issue to discuss major changes before submitting a pull request.
 
+License
 
+Specify the project's license here once the appropriate license has been selected and added to the repository.
 
 QBot — AI-powered test automation for web and mobile applications.
 
